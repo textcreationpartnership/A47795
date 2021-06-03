@@ -1,0 +1,1215 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The accompt clear'd in answer to a libel intituled, A true account from Chichester, concerning the death of Habin the informer &amp;c. / by Roger L'Estrange.</title>
+            <author>L'Estrange, Roger, Sir, 1616-1704.</author>
+         </titleStmt>
+         <extent>Approx. 69KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47795</idno><idno type="EEBO-CITATION">12105326</idno>
+  <idno type="VID">54151</idno>
+  <idno type="EEBO-PROQUEST">2264207255</idno>
+  
+            <idno type="STC">Wing L1192</idno>
+            <idno type="STC">ESTC R31556</idno>
+            <idno type="OCLC">12105326</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A47795)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54151)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1014:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The accompt clear'd in answer to a libel intituled, A true account from Chichester, concerning the death of Habin the informer &amp;c. / by Roger L'Estrange.</title>
+                  <author>L'Estrange, Roger, Sir, 1616-1704.</author>
+               </titleStmt>
+               <extent>32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Joanna Brome ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXXII [1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains the Chichester account and various affidavits.</note>
+                  <note>Pages 33-38 lacking.</note>
+                  <note>Includes index.</note>
+                  <note>Imperfect: pages cropped with slight loss of print.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Habin, Richard, d. 1682.</term>
+               <term type="topical_term">Trials (Murder) --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:54151:1"/>
+            <p>The Accompt Clear'd: IN ANSWER TO A LIBEL, INTITULED, A TRUE ACCOUNT FROM CHICHESTER, Concerning the DEATH of Habin the Informer, &amp;c.</p>
+            <p>By <hi>Roger L'Estrange.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Joanna Brome</hi> at the <hi>Gun</hi> at the West-end of St. <hi>Pauls.</hi> M.DC.LXXXII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="rebuttal">
+            <pb facs="tcp:54151:2"/>
+            <pb n="3" facs="tcp:54151:2"/>
+            <head>The ACCOMPT Clear'd, <hi>&amp;c.</hi>
+            </head>
+            <p>LE<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Vain and Sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>less Author of the P<gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> [<hi>True Account from</hi> Chichester, <hi>concerning the death of</hi> Habin &amp;<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>] should valu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> himself upon th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Noise that lab<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l has m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the World; It is th work of This Paper to lay him op<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, as a <hi>Duty</hi> I owe to <hi>God,</hi> to the <hi>King;</hi> to the <hi>Church,</hi> to a <hi>Rev<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rend Prela<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e;</hi> to a <hi>Wor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hy Friend,</hi> to <hi>Truth,</hi> and to <hi>my <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elf.</hi> For nothing <hi>s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>apes</hi> him, and whoever Considers the <hi>Calumny,</hi> the <hi>Scandal,</hi> the <hi>Malice,</hi> the <hi>Contuma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y,</hi> the <hi>D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>liberate Forgeries,</hi> the <hi>N<gap reason="illegible" resp="#murp" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> falshoods,</hi> and <hi>Imp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>stur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> of That Ven<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mous <hi>Pamphlet,</hi> will find it to be rather the <hi>Character</hi> of the <hi>Spirit</hi> of a <hi>Phanatique,</hi> than a <hi>Relation</hi> of what Pass'd at <hi>Ch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chester,</hi> And a <hi>Bratt</hi> to li<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Fath<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> as if <hi>Lu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ifer</hi> himself had <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for the <hi>Picture</hi> for Ord<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs sake we'le begin with the <hi>Title.</hi>
+            </p>
+            <q>A True Account from <hi>Chichester,</hi> concern<g ref="char:EOLunhyphen"/>ing the Death of <hi>Habin</hi> th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Informer. Whom, contrary to all Truth, <hi>Two Infamous</hi> and <hi>Impudent Lyers,</hi> have published to be Barbarously Mur<g ref="char:EOLhyphen"/>dered: One affirming it to be done by the Dissenters at <hi>Chichester:</hi> The other, by the Coachman of <hi>Richard Faring<g ref="char:EOLhyphen"/>ton,</hi> Esq; With a Relation of the most <hi>Malicious Design</hi> to make Mr. <hi>Faring<g ref="char:EOLhyphen"/>ton</hi> himself guilty of the said pretended Murder. <hi>Published for the sake of TRƲTH.</hi>
+            </q>
+            <p>The Two <hi>Infamous,</hi> and <hi>Impudent Lyers</hi> ar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Divi<g ref="char:EOLunhyphen"/>ded, it seems, about the <hi>Murder</hi> of <hi>Habin. One</hi> lays it to the
+<pb n="4" facs="tcp:54151:3"/>
+               <hi>Dissenters</hi> at <hi>Chichester;</hi> The <hi>Other</hi> to Mr. <hi>Farrington's Coachman,</hi> They do <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oth Agree, however, that he was <hi>Barbarously Murder'd,</hi> w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ich the <hi>Relates Dentes:</hi> But whether he Denies the <hi>Simple Murder,</hi> or the <hi>Barbarous <hi>Murder,</hi>
+               </hi> remains a Qu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on, Only One would think by <hi>his Account</hi> of it, that, at a venture, neither the <hi>Chichester Dissenters,</hi> nor Mr. <hi>Farringt<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n'<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> C<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hman</hi> had any hand in't. Now as I my self have the Honour to be Celebrated for <hi>One</hi> of the Two <hi>Infamous,</hi> and <hi>Impudent <hi>lyers,</hi>
+               </hi> I shall only speak to <hi>my own Part,</hi> and bring my self off the best I can</p>
+            <p>As to the <hi>Malicious Design</hi> upon Mr. <hi>Farrington,</hi> do but shew me any <hi>One Man</hi> of Those that the Faction calls <hi>True-Protestants,</hi> that has ever yet been Expos'd to a <hi>Legal Pro<g ref="char:EOLhyphen"/>secut<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on,</hi> without a Charge of <hi>Malice,</hi> or <hi>Subornation</hi> in the Case; And I will yield This to have been a <hi>Malicious Design</hi> upon Mr. <hi>Farrington.</hi>
+            </p>
+            <p>But it is <hi>Pub<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ish'd,</hi> however, <hi>for the sake of <hi>Truth,</hi>
+               </hi> he says, And we shall see now what it is that he Calls <hi>TRUTH.</hi>
+            </p>
+            <p>In the <hi>Third Page</hi> of his <hi>Introduction</hi> (after his Complements upon the <hi>Obs<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rvator;</hi> as [<hi>A Notorious Son of the Father of Lyes. <hi>A</hi> Papist, <hi>Impress'd with Deep, and In<g ref="char:EOLhyphen"/>deleble</hi> Roman Sanguinary Characters; <hi>A Favourer of the</hi>
+               </hi> Popish Plot, <hi>to <hi>Massacre Protestants;</hi> The First-Begot<g ref="char:EOLhyphen"/>ten of him who <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s a lyer, as well as a Murderer from the Begin<g ref="char:EOLhyphen"/>ning.)</hi> In the <hi>Third Page</hi> I say of his <hi>Introduction</hi> he has this Pa<g ref="char:EOLhyphen"/>ragraph.</p>
+            <q>
+               <hi>I will not no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> trouble my self, nor spend my time, to take all their audaci<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us and false reports asunder, and make an Answer to every part thereof. But this I will offer to them, and to all the World, as a most fair and inexceptionable thing, That whereas these two</hi> bundle<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>of</hi> Lies, <hi>brag and boast much of their Authen<g ref="char:EOLhyphen"/>tick and credible intelligen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e from</hi> Chichester, <hi>as the ground and Warrant of wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t they Print concerning the killing of the Bishops Horse, or Horses, and the pretended bloody Murder of the Informer</hi> Habin; <hi>That if they will publish the Names of them that send it to them, I will produce,</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ide digni, <hi>many m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re persons, who upon Oath before the King and His Council, or in any Court of Judi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ature where His Majesty shall be pleased to appoint the Examination of this matter, shall mak<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> good and prove the verity of the ensuing Rela<g ref="char:EOLhyphen"/>tion.</hi>
+            </q>
+            <pb facs="tcp:54151:3"/>
+            <p>
+               <hi>[I] <hi>will Produce</hi>
+               </hi> (he sayes) And This same <hi>[I]</hi> may be the <hi>Common Hangman</hi> for ought we know, The <hi>Head<g ref="char:EOLhyphen"/>man of the Late King,</hi> &amp;c. And there are those that under<g ref="char:EOLunhyphen"/>stand <hi>Men</hi> and <hi>Styles,</hi> that upon Violent Presumptions Con<g ref="char:EOLunhyphen"/>clude This Author to be a Certain Person that's very little better. But suppose This <hi>Undertaker</hi> (to do so and so, upon such and such Conditions) should not keep <hi>Truth</hi> now, where shall we find him? or how shall we do to put his <hi>Bond</hi> in <hi>Sun</hi> against him? But These Niceties apart. We'le Close with him however upon his Defiance, and <hi>Publish</hi> the <hi>Names</hi> of those that sent the <hi>Information,</hi> together with the <hi>Ground,</hi> and <hi>Warrant</hi> of what the <hi>Observator</hi> has <hi>Printed</hi> concerning the <hi>Horses,</hi> and the <hi>Enformer,</hi> denying Abso<g ref="char:EOLhyphen"/>lutely the Report of <hi>Killing</hi> the <hi>Horses,</hi> which is <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>alsly charg'd upon him. We'le see now how he Proceeds.</p>
+            <q>
+               <hi>The Reason why <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> was published no <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, that I, <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> it was sent, judg'd it was most conventent to see how far these tw<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Enemies to Truth would proceed in their lying Relations, that so a plenary and compleat Answer thereto might be made at <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, to un<g ref="char:EOLunhyphen"/>deceive and satisfie all sober and h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nest men, of what perswasion soever, in whom th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> have been so industri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us to treate a belief of the truth of that which is most false</hi> Ib.</q>
+            <p>Take notice now, that in this <hi>Plenary</hi> and <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mpl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at An<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wer,</hi> he has spoken all that he has to say. The <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd,</hi> as he pre<g ref="char:EOLhyphen"/>tends) is to <hi>Undeceive</hi> and <hi>Satisfie</hi> People for fear they should believe That to be <hi>True</hi> which is <hi>most False</hi> Now whether of the Two is in the <hi>Right,</hi> The <hi>True Accountant,</hi> or the <hi>Impudent Lying Observator,</hi> shall be left to the Reader to Judge. He passes next to the <hi>Character</hi> and <hi>History</hi> of this <hi>Habin.</hi>
+            </p>
+            <q>
+               <hi>I would have the Reader to observe some things remarkable <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on<g ref="char:EOLunhyphen"/>cerning this</hi> Habin: First, <hi>That he was so prestigate a wretch, and so prodigiously wicked, that he made no Conscience of committing the sin of</hi> Perjury: <hi>For he swore, That two or three p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rsons brake Cap<g ref="char:EOLhyphen"/>tain</hi> Bicklies <hi>Windows in</hi> Chi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hester, <hi>that never were among the young men that brought the Pope before his do<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r; by vertue whereof they were Convicted as Rioters, and brought into great trouble And 'tis said, and (if I mistake not) can be proved, That he was the man that broke them.</hi> Secondly, <hi>That he, with his Brother</hi> Hal<g ref="char:EOLhyphen"/>sted,
+<pb n="6" facs="tcp:54151:4"/>
+               <hi>swore, That a Minister Preached at</hi> Stockbridg, <hi>near</hi> Chi<g ref="char:EOLhyphen"/>chester, <hi>where the Dissenters meet every Lords-day; when I dare be bold to affirm, Th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t they were never nearer to the place, than it is from the</hi> Exchang<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>in</hi> London, <hi>to the</hi> Bridge: <hi>and so could not possibly either see, or <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ar a Minister Preach: Up<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n which a Con<g ref="char:EOLhyphen"/>victi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n was made. And this they cont<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nued to swear, in order to such Convictions for s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>veral Lords-days, till Divine Justice arrested and seised him in the very same day wherein for a long time he had acted so wickedly and villanously.</hi> Ib.</q>
+            <p>Touching These Two <hi>Pretended Per<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uries,</hi> we shall speak to them at large, in their Proper Places: But instead of his <hi>Remarque</hi> upon This Poor Creatures being taken off by <hi>Divine Justice,</hi> on the very <hi>same day,</hi> wherei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he had so long Pra<g ref="char:EOLhyphen"/>ctis'd his <hi>Villanus:</hi> Methinks he should rather have Reflected upon the <hi>Devils</hi> entring into a wretch at a <hi>Conventicle,</hi> and then Pushing him on immediately at That very Instant, to This Inhumane <hi>Murder.</hi> But what does he mean then, by saying that <hi>Divine Justice Arrested</hi> him? Will he have God to be the <hi>Auth<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r</hi> of <hi>Sin,</hi> or <hi>that Horrid Assassin</hi> to have been di<g ref="char:EOLhyphen"/>rected by a <hi>Divine Impulse?</hi> And he has not yet done with him neither.</p>
+            <q>
+               <hi>By his Employment he was a common Bayliff, before he was an Informer; and so grand a R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gue in the management thereof, that none in the Country <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as thought to equalize him, but his Brother (in all Villany and Iniquity)</hi> Halsted: <hi>And had not Death prevented, he would e're long have been made so to appear to the World, he be<g ref="char:EOLhyphen"/>ing put into the</hi> Crow<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>-Office <hi>for many prodigious Enormities and Rogueries, and w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ul<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> certainly have been prosecuted for the above<g ref="char:EOLhyphen"/>mention'd Perjury, when a convenient time should have happen'd for it.</hi> Ib.</q>
+            <p>It is acknowledg'd that he was a <hi>Common Bayliff,</hi> And so was <hi>Halsted</hi> too, before they became <hi>Enformers:</hi> And the only men in those dayes I warrant ye, that the <hi>True Protestant Lawyers</hi> and <hi>Att<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rni s</hi> would vouchsafe to make use of. So that 'tis but crossing the Kennell to make a man a <hi>Rogue,</hi> of a <hi>Saint;</hi> or a <hi>Saint</hi> of a <hi>Rogue.</hi> I do not know but <hi>Habin</hi> may have been put in the <hi>Crown-Office</hi> too, as many an <hi>Hon<g ref="char:EOLhyphen"/>est man</hi> has been, purely out of <hi>Spigh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and <hi>Malice</hi> upon the
+<pb n="7" facs="tcp:54151:4"/> undertaking of that Office. We'le speak to the <hi>Perjury</hi> here<g ref="char:EOLhyphen"/>after.</p>
+            <q>
+               <hi>It is not unworth<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of our observa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i n, That as this Hellish Mis<g ref="char:EOLhyphen"/>creant, and Mirrour of all impiety, had perjur'd himself concerning the breaking of Captain</hi> Bickley<hi>'s Glass-Windows, so his real break<g ref="char:EOLhyphen"/>ing of the Windows of another p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rson (that we're injur'd or did him wrong,) should prove the occasion of his Death; and that Death should hurry him into Eternity, and to Judgment, in the Lords-day, which he so much prophan'd, and particularly, by being so much in the Ale house, when he should have been in G ds-house; and disturb<g ref="char:EOLhyphen"/>ing th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>se that would serve and worship God, while he did so much neglect the same. He was unexpectedly driven away that day, by Death, in his wickedness, and had no time given him to repent.</hi> Ib.</q>
+            <p>Was ever any Creature to <hi>Fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lish,</hi> and to <hi>Prophane</hi> in to few words! It was the breaking of <hi>Faringt<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi>'s <hi>Windows</hi> that brought <hi>Habin</hi> to his <hi>Death,</hi> as a <hi>Iust Iudgment</hi> upon him for his <hi>Perjury,</hi> about the breaking of <hi>Captain Bickley</hi>'s <hi>Windows.</hi> What a Mockery is This upon God Almighty! When neither did <hi>He</hi> break <hi>Farringt<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi>'s <hi>Windows</hi> (as we shall prove by and by) nor was he so much as a <hi>Witness</hi> in the Case of <hi>Captain Bickleys Windows:</hi> But the Judgment is driven further Home upon him yet, in being murder'd upon the day, which he so much Prophan'd in <hi>frequenting Ale-houses,</hi> and <hi>Disturbing Private Meetings.</hi> Now do I take a <hi>C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nventicle,</hi> (even upon That day) to be much worse than a <hi>Tippling-House;</hi> as I take a <hi>Schism,</hi> that breaks <hi>Christian Unity,</hi> to be worse than a <hi>Personal Debau<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he</hi> The one is a <hi>Plausible Conspi<g ref="char:EOLhyphen"/>racy,</hi> that gets ground by the fairness of the <hi>Pretext,</hi> and Alienates the Hearts of the People from their Duty to their Sovereign; to the hazzard of the <hi>Publique Peace:</hi> The other is only a <hi>Beastly</hi> and an <hi>Odi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us Excess,</hi> that serv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s to keep <hi>other</hi> men <hi>sober,</hi> by the <hi>Loathsomeness</hi> of the <hi>Spectacle,</hi> and <hi>Ex<g ref="char:EOLunhyphen"/>ample.</hi> But the <hi>Prophanati<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> of the <hi>Lords day</hi> in <hi>Fuddling,</hi> is one of <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>'s <hi>Common Places</hi> to a <hi>Hanging Speech</hi> And I dare Undertake, I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>this C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nventicle</hi> had been Transported into the <hi>Desarts of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rabia,</hi> the <hi>Inf<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rmer</hi> should not have wanted an <hi>Ale-House</hi> there to have Grounded a <hi>Judgment</hi> upon: But truly the matter being well Weigh'd, the stroke does not seem to Mee, so <hi>Judicial,</hi> upon him that <hi>suffer'd</hi> the <hi>Murther,</hi> as upon
+<pb n="8" facs="tcp:54151:5"/> him that <hi>Committ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d</hi> it; And upon those that <hi>Encourag'd</hi> it: And that go on, to this hour, Continuing to <hi>Palliate,</hi> and <hi>Excuse,</hi> if not to <hi>Justify</hi> it. The <hi>Act</hi> was only the <hi>Coachmans;</hi> but the <hi>Countenance,</hi> and <hi>Approbati<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</hi> makes it (in the sight of God) the sin of the <hi>Faction.</hi> And Effectually, of <hi>That Un<g ref="char:EOLhyphen"/>lawful Congregation;</hi> Beside that it was done in the <hi>heat</hi> of a <hi>Phanatical Inspirati<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n;</hi> and not Improbably, the <hi>Effect</hi> of <hi>That dayes Doctrine,</hi> and <hi>Impulse.</hi> For a Further Aggravation, He was taken away <hi>in his Wickedness,</hi> too. Here's <hi>Presby<g ref="char:EOLhyphen"/>terian Mercy</hi> for ye; without the least Touch of <hi>Regret</hi> or <hi>Re<g ref="char:EOLhyphen"/>morse.</hi> What could he have said more? <hi>He had no time given him to Repent,</hi> neither; And yet you shall hear by and by, that he was bury'd alive. Now, for a <hi>Menace</hi> to his Brother <hi>Halsted.</hi>
+            </p>
+            <q>
+               <hi>Let</hi> Halsted, <hi>h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Brother, beware, lest Divine Vengeance do not speedily overtake him, and Death suddenly, as a grim and inexora<g ref="char:EOLhyphen"/>ble</hi> Serjeant, <hi>arrest him, and irresistibly drag his reluctating, wretch<g ref="char:EOLhyphen"/>ed, guilty Soul before the</hi> Tribunal <hi>of Gods severest Justice.</hi> Ib.</q>
+            <p>It is worthy of Observation, that throughout the whole Course of the Successes of This Faction, there was never any <hi>Bloud</hi> spilt by <hi>Their hands,</hi> (from the <hi>Blessed Kings,</hi> to the Meanest of his <hi>Loyal Subjects</hi>) but the <hi>Murderers</hi> made a <hi>Pro<g ref="char:EOLhyphen"/>vidence,</hi> a <hi>Divine Justice,</hi> or <hi>Divine Vengeance</hi> of it. Still most Blasphemously Computing upon Those <hi>Execrable Sins</hi> that make the <hi>Devil themselves</hi> yet <hi>Blacker,</hi> as Acted by the <hi>In<g ref="char:EOLhyphen"/>stinct,</hi> and <hi>Direction</hi> of the <hi>Holy Ghost.</hi> Now the short Mean<g ref="char:EOLhyphen"/>ing of All is This. <hi>Let</hi> Halsted <hi>have a care, We shall find</hi> Coach<g ref="char:EOLhyphen"/>men, <hi>as long as <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou'le find</hi> Enformers. And so soon as ever he has set himself a Tip-toe upon that Imagination, Do but see how Unmercifully he Worries Poor <hi>Halsted, <hi>Inexorable; Irresistibly; Reluctating,</hi>
+               </hi> &amp;c.) As if he were running the Poor Fellow to the Devil in <hi>High-Dutch.</hi>
+            </p>
+            <p>So much for his <hi>Preamble;</hi> And we come now to the <hi>Ac<g ref="char:EOLhyphen"/>count it self.</hi>
+            </p>
+         </div>
+         <div type="rebuttal__cont.">
+            <pb n="9" facs="tcp:54151:5"/>
+            <head>THE CHICHESTER ACCOUNT. OR, A Faithful RELATION of the DEATH of <hi>HABIN</hi> the IN<g ref="char:EOLhyphen"/>FORMER there, <hi>&amp;c.</hi>
+            </head>
+            <q>THE <hi>Vnhappy Accident</hi> which lately fell out in this place, and the more unhappy improvement that we perceive some virulent Minds and Pens make thereof, puts us under a necessity thus to publish to the World the naked and impartial Truth of that whole matter.</q>
+            <p>
+               <hi>We may expect here as</hi> Faithful <hi>a</hi> Relation <hi>of the</hi> Fact, <hi>as the</hi> Account <hi>he gives us, is of the</hi> Crime. <hi>The DEATH of</hi> Habin. <hi>The</hi> Malefactor fled. <hi>The</hi> Malice Prepense; <hi>And the</hi> man's Brains beat out; <hi>And This is That which He calls the DEATH of</hi> Habin. <hi>And then see how softly he has</hi> Worded <hi>it. The <hi>Vnhappy Accident.</hi> As if there had been no more in it than the overturning of a</hi> Salt. <hi>But we are now coming, (if the man may be Believ'd) to the</hi> Naked, <hi>and</hi> Impartial Truth of the whole matter.</p>
+            <p>
+               <hi>I would willingly Consult the</hi> Reader's <hi>Ease, as well as my own; in taking the</hi> Clearest, <hi>and the</hi> shortest <hi>way to the End of my Bus'ness: which must be done, I find, by</hi> Marking <hi>the</hi> Falsities, Disguises, <hi>and</hi> Impostures <hi>of the</hi> Relation, <hi>in Order as I go along; with</hi> References <hi>to the</hi> Affidavits, <hi>and</hi> Certificates, <hi>which I am to Produce, to the <hi>Contrary;</hi> and in</hi> Vindication
+<pb n="10" facs="tcp:54151:6"/>
+               <hi>of the <hi>Truth.</hi> I should rather have Apply'd my</hi> Evidence <hi>to the</hi> Series <hi>of the</hi> Narrative <hi>as it</hi> lyes; <hi>but since That is not to be done, without running into a</hi> Tedious, <hi>and</hi> Intricate Con<g ref="char:EOLhyphen"/>fusion, <hi>I have Inverted the</hi> Method <hi>I Propounded, by</hi> Printing <hi>my</hi> Proofs <hi>altogether at last, and referring the Reader, from the Impudent</hi> Scandals, <hi>and</hi> Abuses <hi>of a</hi> False, <hi>and</hi> Unmannerly Label, <hi>to</hi> those Testimonies <hi>for</hi> satisfaction.</p>
+            <q>Upon Sunday the <hi>6th</hi> of <hi>August, Halsted</hi> were a Sword, and drew it on some Boy, as they were going on the Road, struck at them, and cut their Cloaths. But upon the Boys taking up stones, and threatning to stone h m, if he sheathed not his Sword again, he did return his Sword into its Scabbard:<note place="margin">See Aff<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>davit <hi>20.</hi> &amp; Certifi<g ref="char:EOLhyphen"/>cate <hi>22.</hi>
+               </note> At which <hi>Habin</hi> was so angry, that he would have had the Sword from <hi>Halsted,</hi> swearing he would hew the Boys in pieces with it: but <hi>Halsted</hi> would not let him have it, tho he, as well as <hi>Habin,</hi> were both most miserably <hi>[drunk with Brandy.]</hi>
+            </q>
+            <p>
+               <hi>It may very w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll be, that</hi> Halsted <hi>wore a</hi> Sword; <hi>and it would have been well for</hi> Habin, <hi>if he had worn a Sword too; as they had Both reason to do, Considering the Danger they were in from the</hi> Menacing Rabble; <hi>but</hi> the Cutting of the Boys Cloaths, <hi>is</hi> False, <hi>though the Out-rages they Endur'd might very well have provok'd 'em to't. The Boys being all the while</hi> set on, <hi>and</hi> Encourag'd <hi>by the</hi> Dissenters. <hi>Now to</hi> Prove <hi>that they were <hi>not Drunk,</hi> see the</hi> Margent; <hi>which way of Reference is the Course that I intend to Purslie.</hi>
+            </p>
+            <q>The Boys seeing this <hi>[savage and barbarous fierceness]</hi> of <hi>Habin,</hi> threw some stones at him, and with one of them hit him, and brake his head:<note place="margin">
+                  <hi>See Num.</hi> 23.58.13.19.25.</note> Upon which, <hi>Habin</hi> entring in at the Gate of the City, next to which Mr. <hi>Farington</hi> dwelleth, <hi>[upp'd with his stick,]</hi> and cried out, <hi>Farington</hi> should pay for all; and with that saying, struck, and <hi>[brake his Parlor Window,]</hi> Mr. <hi>Farington</hi> and Three other Gentlemen being in the Room. But Mr. <hi>Farington</hi> knowing there were many that sought occasion to ensnare him, and believing this affront was done him on purpose to provoke him to repay it with some p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssionate Behaviour, <hi>[would not so much as open his Window, or was out of the Room.]</hi>
+            </q>
+            <pb n="11" facs="tcp:54151:6"/>
+            <p>
+               <hi>It was well enough Contriv'd to have the <hi>Boys break Habins Head;</hi> and so to Excuse the</hi> C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ach-man, <hi>as if</hi> That Wound <hi>had been the</hi> death <hi>of him. But there was none of That</hi> Savage, <hi>and</hi> Barbarous Fierceness <hi>he speaks of</hi> No Br<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ken Head <hi>That Bout; No</hi> Crying out, Farington <hi>shall Pay for all,</hi> No Breaking <hi>of his Parlour Windows; <hi>And the</hi> Win<g ref="char:EOLhyphen"/>dow <hi>was</hi> Open; <hi>which is all</hi>
+               </hi> Contrary to his Relation, <hi>see the References again. And it is a strange thing beside, for a man to go with a</hi> Cudgell <hi>to Revenge himself upon a</hi> Window, <hi>and to break but</hi> One Square, <hi>and from the</hi> Street-side; <hi>Force the Lead</hi> outward <hi>too.</hi>
+            </p>
+            <q>Mr. <hi>Farington</hi>'s C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ach-man being unhappily <hi>[abroad in the street,]</hi> and seeing this abuse to his Master's House, went to <hi>Ha<g ref="char:EOLhyphen"/>bin,</hi> and asked what he mean'd by u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> who an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wer'd him only by holding up, and <hi>[shaking his Cudgelat the Coach-man.]</hi>
+               <note place="margin">
+                  <hi>S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Num</hi> 1.2, 5, 15, 16, 17, 19, 2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> Whereupon the Coach-man immediately clapp'd within <hi>Habin,</hi> struck up his heels, took away his stick, and with it his him Four or Five blows over the Pate, and so left him. After which, <hi>Habin</hi> rise up, and went away to the <hi>Mayor's,</hi> and missing the <hi>Mayor,</hi> to ano<g ref="char:EOLhyphen"/>ther Justice, to complain, and then to the <hi>Bishop's</hi> Palace; where, it is said, <hi>he mended his Draught;</hi> and after his head was dressed, was carried <hi>by the Bishops Servants,</hi> and laid in the Stable, where in two hours time he either died, or was so <hi>dead drunk,</hi> that he was taken for dead. However, he was presently laid on a Bier, carried up to the High Cross, and from thence to the <hi>Town-Hall;</hi> where a <hi>Coroner</hi>'s biquest was immediately unpan<g ref="char:EOLhyphen"/>nell'd, and found <hi>Habin</hi> Murdered, and the Coach-man the Mur<g ref="char:EOLhyphen"/>therer, <hi>[before ever (as many do believe) Habin was quite dead.]</hi>
+            </q>
+            <p>
+               <hi>Here's</hi> Lye <hi>upon</hi> Lye. <hi>The</hi> Coach-man <hi>was in the</hi> Perch; Habin <hi>broke</hi> no Window; <hi>Gave no</hi> Provocation, <hi>He</hi> drank <hi>no<g ref="char:EOLhyphen"/>thing at the</hi> Palace; <hi>but only they try'd to make him take a little</hi> Aqua Mirabilis, <hi>and he could not get it down.</hi> Peachy <hi>the</hi> Surgeon, <hi>gave him something out of a Bottle, of which we can give no Account. 'Twas not the</hi> Bishop's Servants, <hi>but</hi> Two Strangers <hi>then in the Palace, that laid him in the</hi> Stable. <hi>He had not drank One drop of</hi> Brandy <hi>That day, to the best of my Enformation. And he was</hi> Certainly Dead, <hi>in despite of this Libeller. As is likewise Prov'd.</hi>
+            </p>
+            <q>
+               <pb n="12" facs="tcp:54151:7"/>It is the universal opinion of this City, That <hi>[if his Lordships Servants had not used this poor Wretch more like a Beast than a Man;]</hi> but had, instead of lugging, him into a told Stable, laid him in a warm Bed, got him to be let Blood, and to have had other Remedies applied proper to his Condition;<note place="margin">
+                  <hi>S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Num.</hi> 15, 16.20, 21.</note>
+               <hi>Habin</hi> might, for any Mortal hurt he had, have been alive at this day. But to expose him in this manner was enough to make him die, whe<g ref="char:EOLhyphen"/>ther he would or no. And pray God all this hasty dispatch was not d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne with a design to do more mischief by his Death, than e'r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they could by his Life. For this is not the first Attem<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that hath been made up<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the Life and Fortune of Mr. <hi>Faringt<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> But to return to our Relation: The Coach-man fled: And wh<gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>er <hi>Habin</hi> was dead or no, we are sure he was buried.</q>
+            <p>
+               <hi>This</hi> Slander <hi>upon</hi> my Lord's Famil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>lyes as</hi> Open <hi>as any thing</hi> else, <hi>for when Thi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Happen'd, the</hi> Bishop, <hi>and most of his</hi> Fa<g ref="char:EOLhyphen"/>mily <hi>were at</hi> Divine Service: <hi>And in short they took all Care of him that was Possible. Nay such is the Malice of this</hi> Scrib<g ref="char:EOLhyphen"/>ling Falsifier, <hi>that he makes <hi>That</hi> to be done b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>design,</hi> which was <hi>not done at all.</hi> See the</hi> Margent <hi>as before.</hi>
+            </p>
+            <q>Thus matters continued till the end of the Week, and every man was so convinc'd (from the multitude of Witnesses that saw the Fact) That instead of Murther, all men judg'd the poor Coach-man would have <hi>Summum jus</hi> to be found guilty of Man-slaughter.<note place="margin">
+                  <hi>See Num.</hi> 2.5.19.</note> For, for a Servant, upon <hi>[so high a provocation as the breaking his Masters House,]</hi> to run up to the doer of the Injury, and in a passion to snatch away his stick, and lay it Four or Five times over his Ears, and it happening so that Death doth follow; to find such a Servant guilty of so much as, Man-slaughter, inclines certainly rather towards seve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ity, than clemency. But to talk of Murder, is such Non-sence, as you may as well call it Blasphemy as Murder; for it hath no one ingredient of Murder in it. For Murde<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ust have <hi>malice fore-thought:</hi> Then a lying in wait, or seeking all occasions to exe<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>te that Malice to the Death of him to whom 'tis born. Neither of which can so much as pretendedly be fastened upon this poor unfortunate Coach-man.</q>
+            <p>
+               <hi>This Paragraph is an</hi> Apology <hi>for the</hi> Murder, <hi>a</hi> Quarrel <hi>to the</hi> Verdict; <hi>and raised upon a</hi> Wr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng Ground <hi>too, as will be
+<pb n="13" facs="tcp:54151:7"/> made appear upon the</hi> Proofs. <hi>Here was</hi> Menacing; Flying; Malice Forethought, <hi>in the Case; And yet he will needs have it</hi> Nonsense <hi>to call This a <hi>Murder.</hi> Beside, that if the</hi> Coachmans Name <hi>had not been</hi> Conceal'd, <hi>he had been</hi> b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>und to the Beha<g ref="char:EOLhyphen"/>viour, <hi>a</hi> Week or Ten days before.</p>
+            <q>On Saturday Morning, the Recorder (who had been all this while absent from the City) returned;<note place="margin">
+                  <hi>See Num</hi> 49, 14.</note> and then the <hi>Lord Bishop</hi> and he, caused <hi>Habin</hi>'s Grave to be opened, the Cor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ner's Inqu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st to be new summoned <hi>to the Bishops Palace,</hi> and to be new sworn again, <hi>Super Visum Corporis,</hi> with a higher aim n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w, and not so much to make the Man as the Master the Murderer, for command<g ref="char:EOLhyphen"/>ing his Man to do it. In order hereunto, the <hi>Cressingham was gotten to swear,</hi> That he saw Mr <hi>Farington</hi> look out at his Window, and bid his Man beat <hi>Habin</hi> soundly. But the <hi>Jury</hi> on inquiry could not find any body that saw <hi>Cressingham</hi> so much as in the street where the Fact was committed. Nor could <hi>Cressing<g ref="char:EOLhyphen"/>ham</hi> name any person that he saw there, thô the street was full of people, save only one, and he proved <hi>so far from being in the street, that unluckily he did not so much as rise from his Bed all that day, till after the Fact was done,</hi> as both himself, and several others did testifie.</q>
+            <p>Nay, divers affirm, That <hi>Cressingham</hi> was <hi>asleep at his Mothers House, in another quarter of the City,</hi> when this unfortunate Fact was done; and that <hi>Cressingham</hi> rose not up till it was told him what the Coachman had done to <hi>Habin.</hi> And among the rest, <hi>Cressingham's own Mother aver'd</hi> to Nine or Ten substantial persons, That if her Son had sworn he saw the Fact, he was a forsworn Rogue, for that he was <hi>asleep at her house</hi> till some Neighbours came in, and told him that <hi>Habin</hi> was dead; thô some say, That after old <hi>Goody Cressingham</hi> had been invited and <hi>Dined with the Bishop,</hi> she began to mince her Confession as much as she could. And <hi>Cressingham's</hi> Mothers house is as utterly out of sight of any thing done at Mr. <hi>Farington</hi>'s Door, as if it stood in <hi>Cheapside.</hi>
+            </p>
+            <p>
+               <hi>The</hi> Venom<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us Mal<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e <hi>of This Libeller against the Bishop, is so Palpable and Open, that I shall not need to desire the Reader to take Notice of it. And then for the</hi> Notorious Fal<g ref="char:EOLhyphen"/>shood <hi>of</hi>
+               <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lat<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n, <hi>'tis all of a piece, The</hi> Bish<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p <hi>and the</hi>
+               <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>ar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> here Charg'd as</hi> Confederates <hi>in a Design of</hi> ma<g ref="char:EOLhyphen"/>king
+<pb n="14" facs="tcp:54151:8"/>
+               <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <hi>Master,</hi> as well as the <hi>Man</hi> a <hi>Murderer. <hi>If there be no</hi>
+               </hi> Punishment <hi>for</hi> Scandals <hi>of This</hi> Infamous Nature, <hi>This Spot of Ground is Certainly the Place of the Whole Christian Earth, where</hi> Ea th <hi>and</hi> Int<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ity <hi>are upon the</hi> Greatest Disad<g ref="char:EOLhyphen"/>vantage. <hi>If it come once to be made a <hi>Conspiracy,</hi> for Persons in</hi> Offi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Endeavour <hi>in a</hi> Legal way <hi>the Detecting of the</hi> Actors <hi>in so</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oul <hi>a</hi> Murth<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r, <hi>all the Rules of</hi> Law, <hi>and</hi> Re<g ref="char:EOLhyphen"/>ligion <hi>are to be read backward; And we are to</hi> do <hi>Just the</hi> Contrary <hi>to what we are</hi> Commanded. <hi>There has not been any One False step on the Bishop's part, in This whole</hi> Transaction, <hi>as we shall in the Due Place Undeniably make Good; nor has his Lordship done any thing more in This Affair, than what in</hi> Honour, Conscience, <hi>and</hi> Common Justice <hi>he was bound to do. The</hi> Cal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mny <hi>of the</hi> Bishop's Attempt <hi>upon the</hi> Life <hi>of</hi> Mr. Farrington <hi>is as</hi> False, <hi>as it is</hi> Odious; <hi>and so is That of his</hi> Tampering <hi>with</hi> Cressingham; <hi>as will be seen by and by, when</hi> That very Practice <hi>shall be prov'd against the</hi> Other <hi>side: And the</hi> Pretended Inc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nsistencies <hi>of</hi> Cressingham's Evidence, <hi>shall be likewise</hi> Clear'd. <hi>It is</hi> False, <hi>that he was</hi> abed, <hi>as is</hi> suggested. <hi>His</hi> Mother <hi>did</hi> n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t <hi>Dine at the</hi> Bish<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ps; <hi>neither did she</hi> M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce her Confession; <hi>neither was Mr.</hi> Farington<hi>'s</hi> House <hi>out of</hi> sight, <hi>where</hi> Cressingham <hi>had Posted himself.</hi>
+            </p>
+            <p>
+               <hi>Now as to the</hi> taking up <hi>of the</hi> Body <hi>again, which he sets forth to have been done by the</hi> Lord Bishop, <hi>and the</hi> Recorder, <hi>the</hi> Truth <hi>of the Story is</hi> This.</p>
+            <p>
+               <hi>After the</hi> Jur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>had</hi> found <hi>the</hi> Murder, <hi>and the</hi> Body <hi>was</hi> bu<g ref="char:EOLhyphen"/>ry'd; Enformation <hi>was deliver'd upon Oath to the Magistrates, that while the</hi> Coachman <hi>was at work upon</hi> Habin, <hi>Mr.</hi> Fa<g ref="char:EOLhyphen"/>rington, <hi>the</hi> Mas<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er, <hi>call'd out to him over and over</hi> to beat him stoutly; <hi>whereupon</hi> the Magistrates order'd the Coroner to summon a Jury, and the Body to be taken up, and Review'd.</p>
+            <q>After they had look'd up the Inquest in the <hi>Bishop's</hi> Palace from Eleven of the Cl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ck till Four, and <hi>none permitted to go to them but whom the Bishop pleased; nay some of the Jury threatned by the Bishop,</hi> that if they did not find <hi>Fa<g ref="char:EOLhyphen"/>rington</hi> Guilty, he would have them before the King and Council. Yet notwithstanding the <hi>Inquest</hi> were of opinion to acquit Mr. <hi>Fa<g ref="char:EOLhyphen"/>rington,</hi>
+               <note place="margin">See Num. <hi>9.</hi>
+               </note> unless <hi>Cressingham</hi>'s Testimony was supported by some other. The Cause being thus just ready to fall, they desired the In<g ref="char:EOLhyphen"/>quest to Adjourn till Eight of the Clock on Monday, which accor<g ref="char:EOLhyphen"/>dingly
+<pb n="15" facs="tcp:54151:8"/> they did, and by that time further Evid<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld be gotten.</q>
+            <p>
+               <hi>We shall see anon what it is that He calls</hi> Locking up the In<g ref="char:EOLhyphen"/>quest. <hi>The</hi> Bishop <hi>left all People at</hi> liberty: <hi>He did not</hi> thr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aten <hi>the Jury: And for the Practice which he pretends was put upon the Inquest in</hi> Mr. Farington<hi>'s <hi>Wrong,</hi> in</hi> Adj<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urning <hi>till</hi> Munday, <hi>It was, in Truth, a</hi> Contrivance <hi>on the</hi> Other <hi>side, for his</hi> Advantage. <hi>At least, if my Intelligence deceives me not, which comes from a very Good Hand.</hi>
+            </p>
+            <p>
+               <hi>The</hi> Jury <hi>being</hi> Called, <hi>there was a</hi> Scruple <hi>started by a</hi> Ca<g ref="char:EOLhyphen"/>pricious Zelote, Whether or no according to <hi>Law,</hi> when <hi>One</hi> man is found <hi>Guilty, Another</hi> man can <hi>be</hi> Try'd, for the same Fact? <hi>And This</hi> Dose <hi>of</hi> Impertinence (<hi>That I may speak to his</hi> double Ca<g ref="char:EOLhyphen"/>pacity) <hi>had such an Operation upon the People Concern'd, that it was some Four Hours before they could be brought to settle themselves in their Geares, and fit upon the</hi> Inquest, <hi>Mr.</hi> Farington <hi>being at liberty to take Good Advice in the</hi> In<g ref="char:EOLhyphen"/>terim. <hi>Upon the 12th of</hi> August <hi>last, the</hi> Jury <hi>were</hi> Impan<g ref="char:EOLhyphen"/>nel'd, <hi>and the Number of at least</hi> Two Hundred <hi>People gotten together; And they boasted of</hi> Thirty Witnesses <hi>that they had, to appear for Mr.</hi> Farington <hi>against the</hi> King; <hi>with</hi> Four At<g ref="char:EOLhyphen"/>tornies <hi>at hand, that they might not speak without Book; In<g ref="char:EOLhyphen"/>sisting upon it, to have the</hi> Witnesses <hi>Against</hi> the King Ex<g ref="char:EOLhyphen"/>amin'd <hi>before those <hi>For</hi> Him; which were a</hi> Plain, <hi>and</hi> Con<g ref="char:EOLhyphen"/>curring Evidence, <hi>and the Other</hi> Clashing <hi>One with another: But however it was, the Greater part of the time was spent in</hi> Scruples <hi>and</hi> Delays; <hi>and the</hi> Multitude <hi>being very</hi> Clamorous, <hi>they</hi> Adjourn'd <hi>till</hi> Munday <hi>to the</hi> Town-Hall, <hi>being a Place of Greater Advantage for such People as had a mind to</hi> Tumult. <hi>My Correspondent says likewise, that the Proceeding was so far from being</hi> hard <hi>upon Mr</hi> Farington, <hi>that</hi> He himself, <hi>and his</hi> Attorney <hi>were permitted to be upon the</hi> Bench, <hi>which could not but have some</hi> Influence, <hi>both upon the</hi> Jury, <hi>and the</hi> Evi<g ref="char:EOLhyphen"/>dence.</p>
+            <q>To have Evidence to get on Saturday night, that must be used on Monday morning,<note place="margin">
+                  <hi>See Num.</hi> 18.19.</note> one would think requires great dexterity to gain them; and yet that Night <hi>a little Prentice-Boy, of about <hi>13</hi> or <hi>14</hi> years old, was haled away from his Masters House by two Publicans</hi> before the <hi>Mayor</hi> and the <hi>City-Ju<g ref="char:EOLhyphen"/>stices,</hi>
+               <pb n="16" facs="tcp:54151:9"/> where we will n t say <hi>by what Arts he was made,</hi> and made to Sw<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar that he saw both Mr. <hi>Farington</hi> and <hi>Cres<g ref="char:EOLhyphen"/>singham</hi> too, when <hi>Habin</hi> was Beat. But of this we are sure, that when the Boy was called before the Inquest, he better remembred himself, and did upon his Oath deny that he saw Mr. <hi>Farington</hi> there, or <hi>Cressingham</hi> either; and yet afterwards the Boy was <hi>prevailed upon to unswear that;</hi> and to swear that he saw <hi>Cressingham</hi> th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re, but not Mr. <hi>Farington:</hi> Some honest-minded people bid the l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as he went by them, to consider what he Swore, and to be sure to Swear the Truth; which made his Mother run up and down like one mad, raving and crying, <hi>My Son shall Swear for the Lord Bishop, <hi>My Son shall swear for the Lord Bishop; I would not for</hi>
+               </hi> Ten Pound <hi>but he should Swear for my Lord <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ishop: For <hi>I have the most part of my Livelyhood from my Lord.</hi>
+               </hi>
+            </q>
+            <p>
+               <hi>The Libeller carries on the same Thrid of Calumny throughout the whole Discourse; and still Casts Those Asper<g ref="char:EOLhyphen"/>sions of</hi> Practice, <hi>and</hi> Foul Play, <hi>upon the King's</hi> Magistrates <hi>and</hi> Officers, <hi>which were</hi> really Practis'd <hi>by the</hi> Other Party. <hi>There was</hi> No H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ling of the Boy away; No Art <hi>us'd to Gain his</hi> Testimony; No Dealing <hi>with him to</hi> Swear, <hi>and</hi> Unswear; <hi>No such</hi> Ravings, <hi>and</hi> Exclamations <hi>from the Boys</hi> Mother, <hi>as is</hi> Pretended. <hi>Though 'tis true, the Boys</hi> Mother <hi>finding that the</hi> Phanatical Party <hi>had got her Son, and Lock'd him up, was almost out of her Wits, for fear they should do him some mischief.</hi>
+            </p>
+            <q>The Inquest being greatly dissatisfied in their Judgments concern<g ref="char:EOLhyphen"/>ing the Evidence that <hi>Cressingham</hi> and the Boy had given,<note place="margin">
+                  <hi>See Num.</hi> 3.8, 19.</note> as disagreeing with each other, and neither of them well agreeing with themselves; and having a Cloud of other Credible Substantial and Unsuspected Witnesses, that saw all the Action from first to last, whose Testimony seemed more Concurrent and Agreeable to Reason: The Jury like discreet Men, and such as were willing to search every thing to find out the Truth, Resolved they would go and view the place themselves where this Accident happened; which accordingly they did, and found that in the place where <hi>Cressingham</hi> swore he stood when he saw Mr. <hi>Farington</hi> look out at the Window, and com<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his man to beat <hi>Habin,</hi> it was utterly impossible for <hi>Cressingham,</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r any man else, to see Mr. <hi>Farington</hi> (or any other)
+<pb n="17" facs="tcp:54151:9"/> look out at the Window. So that returning to the Town-hall, (where the Jury that day sate) fully satisfied, they would not hear any more Witnesses (though a great many more were present, and of<g ref="char:EOLhyphen"/>fered themselves to Swear) but immediately gave in their Verdict, wherein every man did acquit Mr. <hi>Farington.</hi> It appearing to them by the Oaths of Persons (against whom there was no exception) that Mr. <hi>Farington was <hi>so far from commanding his man to beat Habin, that he was extreamly angry with his man for doing of it.</hi> Thus ended this matter.</hi>
+            </q>
+            <p>
+               <hi>How far the King's Evidence</hi> Agreed, <hi>shall be lest to the Reader to Judge; And in the Other</hi> Particulars <hi>likewise, how far the</hi> Bare Word <hi>of so many</hi> People <hi>that are</hi> Partial, <hi>and</hi> Pre<g ref="char:EOLhyphen"/>possessed, <hi>is to be</hi> Credited <hi>against the</hi> Oaths, <hi>and</hi> Certificates <hi>of so many</hi> Unbiass'd Witnesses, <hi>and</hi> Persons <hi>of</hi> Quality, <hi>and</hi> Known Integrity. <hi>As to the</hi> Ignoramus <hi>upon the</hi> Bill, <hi>we shall say No<g ref="char:EOLhyphen"/>thing more to that Point, than that it is no</hi> A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>quittal.</p>
+            <q>The next day <hi>this young Apprentice was taken from his Master, by the Bishop,</hi> into his House;<note place="margin">S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Num <hi>1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </note> Whether for fear the Boy should blab the Threats and Arts that have been exercised on him, to draw him to do what he did; or to be better instructed in the new and modish Science now in fashion, they best know that did it; thô the Boys Mother doth give out already, that <hi>her Son shall yet Swear for my Lord Bishop</hi> against Mr <hi>Farington</hi> for all this: We only can say, that this we are sure of from several honest Persons, that the Child did nothing but Cry, and say he was threat<g ref="char:EOLhyphen"/>ned to Swear what he did, till Mr. <hi>Farington</hi> was acquitted, and that then he did nothing but leap and express an high passion of joy for it; and if upon his coming under his Lordships Roof, the Boy as<g ref="char:EOLhyphen"/>sumed another nature, 'tis only a proof, that Miracles are not ceased.</q>
+            <p>
+               <hi>This taking of the</hi> Boy <hi>from his</hi> Master, <hi>by the</hi> Bishop, <hi>was only my Lords receiving of him into his</hi> Pr<gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ction, <hi>with the Consent of the</hi> Boys Master, <hi>the</hi> Mayor <hi>of the</hi> City, <hi>and</hi> Two Alderm<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n; <hi>And all the suggestions of</hi> Other Reasons <hi>for the</hi> Do<g ref="char:EOLhyphen"/>ing <hi>of it are only out of the Spirit of a</hi> Diabolical Slander.</p>
+            <q>
+               <pb n="18" facs="tcp:54151:10"/>People do publickly say, That <hi>sub dio,</hi> or in the Church-Porch, whitherto all persons might freely resort,<note place="margin">See Num. <hi>9.</hi>
+               </note> had been a much more proper place for a Co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oners Inquest to have sate, than under Lock and Key in a Bishops Palace.</q>
+            <p>
+               <hi>'Tis true that the</hi> Coroners, <hi>and</hi> Inquest, <hi>had the</hi> Bishops <hi>leave <hi>to sit in an</hi>
+               </hi> Out-room <hi>in the</hi> Palace; <hi>which was done, to Prevent the Danger they might have been Expos'd to by the Rabble, if they had sat in the</hi> Church-Porch.</p>
+            <q>Upon the whole, we judge all men will see n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> little reason to lay this Accident on Mr <hi>Farington,</hi> as some Gentlemen had to lay <hi>the wounding of his Lordships Coach-Horses on our Dissenters.</hi> For the Horses were a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Grass seven miles distant from this City,<note place="margin">
+                  <hi>See Num.</hi> 6.7.</note> and <hi>in all probability were Goared by some of the fatting Cattel</hi> among which they fed. For besides, that it is contrary to the common Charity which Christianity obligeth us to have for all men, to believe so ill of any without some proof: So is it also manifestly opposite to Reason to credit, that if any mans Rage and Malice should have carried him so many miles to have mis<g ref="char:EOLhyphen"/>chiefed his Lordships Horses, that he would not have done is through<g ref="char:EOLhyphen"/>ly, and kill'd them on the spot, rather than to have given them <hi>such slight wounds as every silly Smith could Cure;</hi> for be is known to the World, his Lordships H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rses are alive again, and as well as ever, and the persons that wrought their Cure, would think themselves feered to be called by so much as the Name of <hi>Far<g ref="char:EOLhyphen"/>riers.</hi>
+            </q>
+            <p>
+               <hi>It is not either for Mr.</hi> Farington<hi>'s</hi> Credit, <hi>or</hi> Service <hi>to im<g ref="char:EOLhyphen"/>ply him as deep in the</hi> Death <hi>of</hi> Habin, <hi>as the</hi> Dissenters <hi>were in the</hi> Wounding <hi>of my Lord's</hi> Horses; <hi>Nor will the Frivolous Pretence of their being <hi>Gor'd,</hi> serve the Turn: But now for the</hi> Author <hi>of this Libel, to talk of the</hi> Duty <hi>of</hi> Common Charity; <hi>and that</hi> we are not to believe so Ill of any without Proof! <hi>Where is <hi>His Charity</hi> now, that let's him run on at this</hi> Infamous, <hi>and</hi> Barbarous Rate <hi>of</hi> Lyes, <hi>and</hi> Defamations <hi>against a Reverend</hi> Prelate, <hi>without so much as any Colour for the</hi> Truth <hi>of the</hi> Report; <hi>or any</hi> Shame, <hi>or</hi> Remorse <hi>for the</hi> Lewdness <hi>of it? What does <hi>He</hi> talk of</hi> Christianity, <hi>that plays the</hi> Advocate <hi>for the</hi> Devil himself, <hi>in the</hi> Person <hi>of a</hi> Murderer; <hi>and sets himself up
+<pb n="19" facs="tcp:54151:10"/> in</hi> Defiance <hi>of all that is</hi> Sacred, <hi>either in</hi> Truth, <hi>or</hi> Justice? <hi>Let not This man, after the</hi> Writing, <hi>and</hi> Publishing <hi>of these Two Sheets, ever Pretend to Argue the</hi> Incredibility <hi>of any thing, because it may be contrary perhaps to the Methods of</hi> Chri<g ref="char:EOLhyphen"/>stian Charity, <hi>and</hi> Humane Reason; <hi>for never did any thing stand in a more</hi> Direct, Audacious, <hi>and</hi> spiteful Opposition <hi>in the Terms of</hi> Religion, Good Faith, <hi>or</hi> Society, <hi>than this</hi> True Account <hi>(as her calls it) from</hi> Chichester, <hi>concerning the Death of</hi> Habin <hi>the</hi> Enformer.</p>
+            <q>'Tis true, there was an Oath ab<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut to have been made by a Right <hi>Irish</hi> Evidence, That one Mr. <hi>Nevill</hi> had wounded his Lordships Hor<g ref="char:EOLhyphen"/>ses. But just then hearing that the Gentleman was above Fifty miles distant from the place, he held his blow, and we have un<g ref="char:EOLhyphen"/>lu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kily miss'd that able Testimony; yet we are so far from having that uncharitable thought, that this person had any particular malice in his Oath against Mr. <hi>Nevill,</hi> that we do believe in our Consciences that for a <hi>Guiney</hi> more he would have swore the <hi>Morocco Em<g ref="char:EOLhyphen"/>bassador</hi> had done it; and we do also believe, that if he had sworn so, he had said as much Truth, as any of those Gentlemen that have published that matter. And so much for the Horses.</q>
+            <p>
+               <hi>I have heard nothing of any Design to swear against Mr</hi> Nevil. <hi>If he knows the</hi> Thing <hi>to be</hi> True, <hi>methinks he should know the</hi> Person <hi>too, that was to have</hi> done <hi>it; And then me<g ref="char:EOLhyphen"/>thinks again, he might have told the world his</hi> Name; <hi>Espe<g ref="char:EOLhyphen"/>cially being so</hi> Prostigate <hi>a Fellow as he</hi> Represents <hi>him: But This Wretched man is given over to <hi>Believe</hi>
+               </hi> Lyes, <hi>as well as to <hi>Make,</hi> and to <hi>Report</hi> them. If</hi> That <hi>False</hi> Oath <hi>had gone on, he would have</hi> believ'd <hi>it to have been as much a</hi> Truth <hi>as any has been Publish'd concerning the <hi>Horses;</hi> And yet I Defie either the</hi> Libeller himself, <hi>or any other for him, to Disprove any One word, the</hi> Observat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r <hi>has deliver'd upon That Subject.</hi>
+            </p>
+            <p>
+               <hi>It remains now only, to speak to the</hi> Calumnies <hi>Call upon</hi> Habin <hi>in the scandalous Introduction to the False and Impu<g ref="char:EOLhyphen"/>dent Account.<note place="margin">
+                     <hi>See Num</hi> 10 11.23.2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> He makes him</hi> the most <hi>Prostigate Wretch</hi> in Nature, <hi>Perjur'd,</hi> or Swearing Falsly against People for Breaking Captain <hi>Bickley</hi>'s Windows: Perjur'd for Swearing to a
+<pb n="20" facs="tcp:54151:11"/> Ministers Preaching at <hi>Stockbridge,</hi> when he never came nearer the Meeting-House then the <hi>London-Exchange</hi> is to the <hi>Bridge. The Reader will receive Full Satisfaction to these Slanders, as well as the rest, from the Papers mark'd in the</hi> margent.</p>
+            <p>
+               <hi>We shall now Proceed to our</hi> Proofs, <hi>and make it appear, that there is not One True Syllable in This</hi> Libellous Narration, <hi>that signifies any thing to the matter in Controversie, which will abide the</hi> Test; <hi>And that it is no more, in short, than</hi> a Fardle of Virulent Falshoods.</p>
+         </div>
+         <div type="affidavits">
+            <pb n="21" facs="tcp:54151:11"/>
+            <head>I. Certain <hi>Affidavits,</hi> and <hi>Certificates,</hi> in Disproof of an Insolent Libel, Entituled, [<hi>A True Ac<g ref="char:EOLhyphen"/>count from</hi> Chichester, <hi>Concern<g ref="char:EOLhyphen"/>ing the Death of</hi> Habin <hi>the En<g ref="char:EOLhyphen"/>former,</hi> &amp;c.</head>
+            <div type="affidavit">
+               <p>MEmorandum, That Mr. <hi>William Peachy</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f the City of <hi>Chichester</hi> Chirurgeon, did declare to me <hi>Freeman Howse</hi> of the same City Esq; on Monday the 4th day of <hi>September 1682.</hi> That Mr. <hi>Richard Farington</hi> of the same City, did desire him to go and look after the Wounds of one <hi>Richard Habin,</hi> wounded by his Coachman on the 6th day of <hi>August</hi> last, being Sunday; and that he did accordingly go to my Lord Bishop's Palace, (my Lord, and most of his Family being then at Quire Service;) and that he did ask one of the Servants remaining at home, to see <hi>Richard Habin,</hi> whom he did then see, and examine his Pulse, and used all means possible to perceive whether he had any Life remaining in him, but found no motion of Pulse, or any sign of Life in him: where<g ref="char:EOLhyphen"/>upon he privately departed, and after the Prayers were ended, did come to my Lord's Palace, and desire to see the Body, hoping, as he said, by Blood letting, or some other means, to rec<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ver him, notwith<g ref="char:EOLhyphen"/>standing his being before with him privately; and that he did then see him the said <hi>Richard Habin</hi> accordingly, and at the same time used some means to the dead Body to u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> purpose, being dead some t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me before as he well knew, and confess<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d to me. This attested by me</p>
+               <closer>
+                  <dateline>
+                     <hi>Chichester,</hi>
+                     <date>
+                        <hi>Sept. 11. 1682.</hi>
+                     </date>
+                  </dateline>
+                  <signed>FREEMAN HOWSE</signed>
+               </closer>
+            </div>
+            <div type="affidavit">
+               <pb n="22" facs="tcp:54151:12"/>
+               <head>II. The Information of <hi>Henry Halsted</hi> of the said City Labourer,<note place="margin">Civitas Ci<g ref="char:EOLhyphen"/>cest<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>' Comitat' Sussexiae.</note> taken upon his corporal Oath the 12th day of <hi>August</hi> 1682. before <hi>Henry Peckham</hi> Esq; Sir <hi>Richard May</hi> Kt. <hi>Stephen Penford,</hi> and <hi>William Costellow,</hi> Justices of the Peace for the said City.</head>
+               <p>THis Informant s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ith, That upon Sunday the sixth day of this instant <hi>August</hi> this Informant and <hi>Richard Habin</hi> went to <hi>Stockbridge,</hi> to take notice of such persons as were assembled at the Conventicle usually held there, and as thi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Informant and the said <hi>Richard Habin</hi> returned back again between <hi>2</hi> or <hi>3</hi> of the Clock in the afternoon of the same day, and just as the said <hi>Richard Habin</hi> came against Mr. <hi>Richard Farington</hi> s Porch, <hi>John Davies,</hi> Coachman of the said <hi>Richard Farington,</hi> fell upon the said <hi>Ri<g ref="char:EOLhyphen"/>chard Habin,</hi> and struck up his Heels, and took the Cudgel but of the said <hi>Richard Habins</hi> Hands, and gave him several great Blows on the Head, of which Wounds the said <hi>Richard Habin</hi> dyed within about an hour, and the said <hi>Richard Habin</hi> gave him the said <hi>Davies</hi> no provocation, nor broke, or offered to break any of the Windows of Mr. <hi>Farington,</hi> or any other; And that the said <hi>John Davies</hi> did wound the said <hi>Habin,</hi> because the said <hi>Habin</hi> used to take Notice and Inform against such Persons as went to the Conventicle. And this Examinant did <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ear the said <hi>John Davies</hi> about a week before, threaten the said <hi>Habin</hi> to beat out his Brains, if he did not let the Conventicles or Meetings alone.</p>
+               <closer>
+                  <dateline>
+                     <hi>Jurat </hi>
+                     <date>
+                        <hi>die &amp; anno supradict'</hi>
+                     </date>
+                     <hi> coram nobis</hi>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <item>HENRY PECKHAM <hi>Mayor</hi>
+                        </item>
+                        <item>RICHARD MAY.</item>
+                        <item>STEPHEN PENFORD.</item>
+                        <item>WILLIAM COSTELLOW.</item>
+                     </list>
+                  </signed>
+                  <signed>HENRY HALSTED.</signed>
+               </closer>
+            </div>
+            <div type="affidavit">
+               <pb n="23" facs="tcp:54151:12"/>
+               <head>III. The Information of <hi>William Crossingham</hi> of the said City Barber,<note place="margin">Civitas Ci<g ref="char:EOLhyphen"/>cesti Comitat' Sussexiae.</note> taken upon Oath the day and year aforesaid, before the persons aforesaid.</head>
+               <p>THis Informant saith, That upon Sunday, the sixth day of this instant <hi>August,</hi> between Two and Three of the Clock in the Afternoon of the same day, this Informant was sitting upon a bench in the South-street near over against Mr. <hi>Farington</hi>'s Porch, he saw <hi>Richard Habin</hi> walk in at South-gate very civilly, and as he came by Mr. <hi>Richard Farington</hi>'s house, he saw Mr. <hi>Richard Fa<g ref="char:EOLhyphen"/>rington</hi> look out of a Window in a lower Room of the said <hi>Richard Farington</hi>'s house, and heard the said <hi>Richard Farington</hi> say to his Coachman <hi>John,</hi> Beat him stoutly, Beat him stoutly, and then the said <hi>Richard Farington</hi> went out of the said Room into his Porch in the said street, and encouraged his man <hi>John</hi> again with the said words, Beat him stoutly, Beat him stoutly. And this Informant saith, That the said Coachman <hi>John</hi> did throw the said <hi>Habin</hi> upon the ground, and took away his Cudgel, and beat him violently with the said Cudgel about the head, whereupon the said <hi>Habin</hi> before six of the Clock the same Night died.</p>
+               <closer>
+                  <dateline>
+                     <hi>Jurat </hi>
+                     <date>
+                        <hi>die &amp; anno supradict'</hi>
+                     </date>
+                     <hi> coram nobis</hi>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <item>HENRY PECKHAM <hi>Mayor.</hi>
+                        </item>
+                        <item>RICHARD MAY.</item>
+                        <item>STEPHEN PENFORD</item>
+                        <item>WILLIAM COSTELLOW.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="affidavit">
+               <pb n="24" facs="tcp:54151:13"/>
+               <head>IV. <hi>Katherine Crossingham</hi> of the same City Widow maketh Oath.<note place="margin">C<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>itat Ci<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sti' ss.</note>
+               </head>
+               <p>THis Examinant saith, that her Son <hi>William Cressingham,</hi> dined at her House upon Sunday the sixth day of <hi>August, 1682.</hi> and went out of the Doo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s about twelve of the Clock the same day, and did not return home, until about half an hour past two of the Clock in the Afternoon; and this Examinant farther saith, that <hi>Mary</hi> the Wife of <hi>Thomas Hurst</hi> came to her, and informed her, that if her Son would recall his Oath, they would be very beneficial to him and her, for they made Gatherings, and gave considerable Sums, and she and her Son should have a good part of it.</p>
+               <closer>
+                  <dateline>
+                     <hi>Jurat</hi>
+                     <date>
+                        <hi>14</hi>
+                        <seg rend="sup">to</seg>
+                        <hi>die Aug 1682.</hi>
+                     </date>
+                     <hi>Coram nobis.</hi>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <item>WILLIAM BALDWIN, <hi>Junior.</hi>
+                        </item>
+                        <item>JOHN WILLIAMS</item>
+                     </list>
+                  </signed>
+                  <signed>The Mark of CATHARINE CROSSINGHAM.</signed>
+               </closer>
+            </div>
+            <div type="affidavit">
+               <head>V. The Examination of <hi>John Burley</hi> of the City of <hi>Chi<g ref="char:EOLhyphen"/>chester</hi> aged fourteen years or there about,<note place="margin">Civitat Cicesti'</note> taken the 6th. of <hi>August</hi> 1682.</head>
+               <p>THis Examinant <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aith, That <hi>Richard Habin</hi> gave no Provo<g ref="char:EOLhyphen"/>cation to <hi>John Davis</hi> to strike him, yet the said <hi>John Davis</hi> took away the Stick of the said <hi>Richard Habin,</hi> and gave him five or six blows upon the Head, two or three of them being upon his bare Head.</p>
+               <closer>
+                  <dateline>Jurat <date>die &amp; Ann<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Supradict</date> Coram nobis.</dateline>
+                  <signed>
+                     <list>
+                        <item>WILLIAM B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>LDWIN <hi>Cor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ner.</hi>
+                        </item>
+                        <item>JOHN WILLIAMS <hi>Cor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ner.</hi>
+                        </item>
+                     </list>
+                  </signed>
+                  <signed>The Mark of JOHN BURLEY.</signed>
+               </closer>
+            </div>
+            <div type="affidavit">
+               <pb n="25" facs="tcp:54151:13"/>
+               <head>VI.</head>
+               <p>
+                  <hi>JOhn Wilson</hi> of the Parish of <hi>Sidlesham</hi> Farmer, one whose Fa<g ref="char:EOLhyphen"/>ther was an eminent Farrier, and imployed ab<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut the late <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ord Duke of <hi>New-castle<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> Horses, as was also the said <hi>John</hi> his Son, who hath done great Cures upon Horses since he came into this Coun<g ref="char:EOLhyphen"/>ty, being sent for to be imployed in the Cure of the lard Bishop of <hi>Chichester</hi>'s Horses, who were, as it was supposed, mortally wound<g ref="char:EOLhyphen"/>ed the last St. <hi>James</hi>'s day, by some Enemies to the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> doth voluntarily make Oath before me <hi>Stephen Penford</hi> one of His Majesties Justices of the Peace, that having se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the two Horses immediately after the Wounds; he doth from his heart believe, and upon evident Demonstration can manifest, that the said Horses were not gored by Beasts, as is falsely affirmed in a late Libel, but were rip'd, cut and stab'd in a most cruel manner, by some sharp in<g ref="char:EOLhyphen"/>strument by a man, and one who came to <hi>Chichester</hi> after the Fact, as one of his neighbors can and will prove in due time. And the said Deponent doth for instance inform the World upon his Oath, that one of the Horses had a wound in his side, about a Foot in length, which was so deep, that his Lights appeared, and the wind came out as if a great pare of Bellows had been blown; the other Horse had a wound about half a foot in length, but very deep under the fore shoulder, both of which seemed at first dangerous and incurable, and that a piece of one of the Horses bones was cut off, which could not be by goring of a Beast.</p>
+               <closer>
+                  <dateline>
+                     <hi>Jurat coram me</hi>
+                     <date>9<seg rend="sup">no</seg>
+                        <hi>Sept. 1682.</hi>
+                     </date>
+                  </dateline>
+                  <signed>STEPHEN PENFORD.</signed>
+                  <signed>JOHN WILLSON.</signed>
+               </closer>
+            </div>
+            <div type="affidavit">
+               <pb n="26" facs="tcp:54151:14"/>
+               <head>VII.</head>
+               <p>
+                  <hi>GEorge Butterly</hi> Farrier in the City of <hi>Chichester,</hi> being im<g ref="char:EOLhyphen"/>ployed by the Lord Bishop in the Cure of his Horses lately wounded, in all probability mortally by the largeness and depth of the Wounds, did come before me <hi>Stephen Penford</hi> one of His Ma<g ref="char:EOLhyphen"/>jesties Justices of the Peace, and voluntarily make Oath that the said Horses were so miserably wounded (as he believeth) by some man with some sha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p Weapon, and that there doth not appear to him any circumstance that the Horses were gored by a Beast, as is assert<g ref="char:EOLhyphen"/>ed falsely in a late label.</p>
+               <closer>
+                  <dateline>
+                     <hi>Jurat coram me</hi>
+                     <date>
+                        <hi>9 Sept.</hi>
+                     </date>
+                  </dateline>
+                  <signed>STEPHEN PENFORD.</signed>
+                  <signed>GEORGE BUTTERLY.</signed>
+               </closer>
+            </div>
+            <div type="affidavit">
+               <head>VIII. The Information of <hi>Thomas Bairnes</hi> of the said City,<note place="margin">Civitat Ci<g ref="char:EOLhyphen"/>cesti'</note> aged about fourteen-years, taken upon his Corpo<g ref="char:EOLhyphen"/>ral Oath the 12th. day of <hi>September</hi> 1682. before <hi>Stephen Penford</hi> and <hi>William Costellow</hi> two of his Majesties Justices of the Peace for the City of <hi>Chi<g ref="char:EOLhyphen"/>chester.</hi>
+               </head>
+               <p>THis Informant saith, that upon Sunday the sixth day of <hi>August 1682</hi> between two and three of the Clock in the Afternoon of the same day, his Informant being in the South street near Mr. <hi>Fa<g ref="char:EOLhyphen"/>rington</hi>'s House, he saw <hi>Richard Habin</hi> walk in at South-Gate very civilly, and as he came by Mr. <hi>Richard Farington</hi>'s House, he saw the said Mr. <hi>Richard Farington</hi> look out of a Window in a lower Room of the said Mr. <hi>Farington</hi>'s H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>use, and heard the said <hi>Richard Farington</hi> say to his Coach man, beat him stoutly, beat him stoutly, and this Informant saith, that the said Coach-man
+<pb n="27" facs="tcp:54151:14"/> did throw the said <hi>Habin</hi> upon the ground, and took away his Cudgel, and beat him violently several times upon the bare head, whereupon the said <hi>Habin,</hi> before six of the Clock of the same night dyed, and this Informant further saith, that he saw <hi>William Cros<g ref="char:EOLhyphen"/>singham</hi> of the City of <hi>Chichester</hi> Barb<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r, n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ar the House of Mr. <hi>Richard Farington,</hi> at the same time when <hi>Richard Habin</hi> was wounded by the abovesaid Coach-man.</p>
+               <closer>
+                  <dateline>
+                     <hi>Jurat <date>die &amp; Anno Supradict</date> Coram nobis</hi>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <item>STEPHEN PENFORD.</item>
+                        <item>WILLIAM COSTELLOW.</item>
+                     </list>
+                  </signed>
+                  <signed>His Mark THOMAS BAIRNES.</signed>
+               </closer>
+            </div>
+            <div type="affidavit">
+               <head>IX.</head>
+               <p>WHereas it is published in a late label <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that the Jury of Inquest for the Murther of <hi>Richard Habin,</hi> were looked up in the Bishop's Palace from eleven of the Clock till four, and none permitted to go to them but whom the Bishop pleased, and some of the Jury threatened by the Bishop, that if the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> did not find <hi>Faring<g ref="char:EOLunhyphen"/>ton</hi> Guilty, he would have them before th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> King and Council, He who were of the said Jury, do hereby certifie, that the door was n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t shut by his l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rdship's order, but by the Coroners, to prevent the tr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<g ref="char:EOLunhyphen"/>ble or tumult of a great Rabble very numerous, then gathered toge<g ref="char:EOLhyphen"/>ther in the Church-yard, and about the door of the Palace. Which we had liberty (by his Lordship's permission) to open or shut, let in or out whom we pleased, especially any that were needful for Evidence; and the said Lord Bishop was so far from directing or threatening the Jurors, that he did not come near them all the time,</p>
+               <closer>
+                  <dateline>witness our Hands <date>the <hi>11th.</hi> of <hi>September 1682.</hi>
+                     </date>
+                  </dateline>
+                  <signed>JOHN WILLIAMS, <hi>Coroner.</hi>
+                     <list>
+                        <head>Juror<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </head>
+                        <item>John Floyd</item>
+                        <item>William Sh<gap reason="illegible" resp="#murp" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>
+                        </item>
+                        <item>Christopher Br<gap reason="illegible" resp="#murp" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>k<gap reason="illegible" resp="#murp" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                        </item>
+                        <item>Richard Faithful</item>
+                        <item>Francis Fleshmonger</item>
+                        <item>Nathanniel Allen</item>
+                        <item>Edward Ansell</item>
+                        <item>William Hall</item>
+                        <item>Robert Phillips</item>
+                        <item>George Butter<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>, <hi>Jun</hi>
+                        </item>
+                        <item>William Floyd</item>
+                        <item>Francis G<gap reason="illegible" resp="#murp" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>
+                        </item>
+                        <item>James Gardner</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="affidavit">
+               <pb n="28" facs="tcp:54151:15"/>
+               <head>X.</head>
+               <p>WHereas it is maliciously and falsely reported in a late Libel that <hi>Habin</hi> with his Brother <hi>Halsted,</hi> swore that a Mi<g ref="char:EOLhyphen"/>nister preached at <hi>Stockbridge</hi> near <hi>Chichester,</hi> where the Dissen<g ref="char:EOLhyphen"/>ters meet, and were never nearer the place, than is from the <hi>Ex<g ref="char:EOLhyphen"/>change</hi> to <hi>London-Bridge.</hi> I <hi>Samuel Carleton</hi> Gent. do testifie to the World, that the same is a most notorious Lye to my own per<g ref="char:EOLhyphen"/>sonal knowledge, who have seen them on the Lords day, at the time usual for the Conventicle, at the door of the said <hi>Stockbridge</hi>-house, and this I will aver upon Oath,</p>
+               <closer>
+                  <dateline>witness my hand <date>the 11th day of <hi>Sept. 1682.</hi>
+                     </date>
+                  </dateline>
+                  <signed>SAMUEL CARLEION.</signed>
+               </closer>
+            </div>
+            <div type="affidavit">
+               <head>XI.</head>
+               <p>I Sir <hi>John Farington</hi> Knight, do hereby testifie, that so often as <hi>Habin</hi> and <hi>Halsted</hi> two Informers, came before me for the Con<g ref="char:EOLhyphen"/>viction of the Conventicle held every Sunday at <hi>Stockbridge,</hi> even by the Confession of the Libeller, they behaved themselves modestly, and seemed to me to be very tender of an Oath, and cautious and considerative in what they swore,</p>
+               <closer>
+                  <dateline>witness my hand <date>the 11th, of <hi>September, 1882.</hi>
+                     </date>
+                  </dateline>
+                  <signed>JOHN FARINGTON.</signed>
+               </closer>
+            </div>
+            <div type="affidavit">
+               <pb n="29" facs="tcp:54151:15"/>
+               <head>XII. An Inquisition taken at the <hi>Guild-hall</hi> of the same City,<note place="margin">Civitas Ci<g ref="char:EOLhyphen"/>cestr' ss.</note> the 14th. day of <hi>August</hi> 1682. upon the view of the body of <hi>Richard Habin</hi> Labourer, before <hi>William Baldwyne</hi> and <hi>John Williams</hi> Gent. Coroners there, and the Jury Impannelled and Sworn.</head>
+               <p>THE Jury do find upon their Oaths, that upon the sixth day of <hi>August 1682. John Davies</hi> of the same City a Coach-man, and Servant belonging to <hi>Richard Farington</hi> Gent. with a Stick held in his hand, at the Parish of St. <hi>Peter</hi>'s the Great, <hi>alias</hi> Sub<g ref="char:EOLhyphen"/>deanry within the said City, did give the said <hi>Richard Habin</hi> a mortal Wound upon the right side of his head, about an Inch long and half an Inch deep, of which wound he lay languishing from about the hours of three of the Clock in the Afternoon, until about five at Night, and then died: And the said <hi>Richard Habin</hi> was then and there killed and murthered by the said <hi>John Davis;</hi> and they further find, that he said <hi>John Davies</hi> was incouraged by some unknown Person, to beat the said <hi>Richard Habin,</hi> and they know of no Goods or Chattels.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>WILLIAM BALDWINE <hi>Coroner.</hi>
+                        </item>
+                        <item>JOHN WILLIAMS <hi>Coroner.</hi>
+                        </item>
+                     </list>
+                     <list>
+                        <item>Edward Ansell</item>
+                        <item>William Hall</item>
+                        <item>Christopher Brooke<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </item>
+                        <item>Richard Faithfull</item>
+                        <item>George Butterley</item>
+                        <item>William Short</item>
+                        <item>Robert Philips</item>
+                        <item>Francis Fleshmonger</item>
+                        <item>George Wheeles</item>
+                        <item>John Floyd</item>
+                        <item>Francis Goater</item>
+                        <item>George <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ylley</item>
+                        <item>William Floyd</item>
+                        <item>Nicholas Clousley</item>
+                        <item>James Gardner.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="affidavit">
+               <pb n="30" facs="tcp:54151:16"/>
+               <head>XIII.</head>
+               <p>
+                  <note place="margin">Civitas Ci<g ref="char:EOLhyphen"/>cestr' ss.</note>
+                  <hi>JOhn Fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ben<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h</hi> Gent of the City of <hi>Chichester,</hi> came before me <hi>William Costelow</hi> Alderman, and one of His Majesties Ju<g ref="char:EOLhyphen"/>stices of Peace for the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aid City, and did voluntarily make Oath, that upon Sunday evening after the Murther of <hi>Richard Habin,</hi> he went and curtously vi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wed for the discovery of Truth, the Windows of Mr. <hi>Farington,</hi> whi h are falsely reported in a late label to be broak by <hi>Habin;</hi> and saith that he doth verily believe and think, by rea<g ref="char:EOLhyphen"/>son that the Lead of the Window was bended outward, and from other Circumstances, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat the only Quarre which was then broke, had been broke on the inside of the Parlor, and some time before that day.</p>
+               <closer>
+                  <signed>JOHN FORBENCH.</signed>
+                  <dateline>
+                     <hi>Jurat Coram me</hi>
+                     <date>9no <hi>Sept.</hi>
+                     </date>
+                  </dateline>
+                  <signed>WILLIAM COSTELLOW.</signed>
+               </closer>
+            </div>
+            <div type="affidavit">
+               <head>XIV.</head>
+               <p>WHereas it is f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lsely published in a late label <hi>p 4</hi> that W<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>dow <hi>Crossingham</hi> since her <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ning at the Pal<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e in <hi>Chi<g ref="char:EOLhyphen"/>chester,</hi> had minced her Evidence <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ning her Son's Testimony, relating to the Murther of <hi>Habin</hi> The <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arl <hi>Katherine Crossingham</hi> Widdow, came before me <hi>Stephen P<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ford</hi> one of the Majesties Justices of the Peace for the City of <hi>Chichester,</hi> and did voluntarily make Oath, that she neither hath not wi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ssen th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Eviden<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> she hath already made, and d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th now made, <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r Son dined at home about tw<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lve of the C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ock, and then w<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> imm<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>diately abroad after Dinner, and did n t <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eturn h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me again until at least half an h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur after tw<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the Cloc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, and that she hath n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t been <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am<g ref="char:EOLhyphen"/>pered with b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> any <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he <gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>d Bish p's Family, to alter or speak any thing any way, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> she <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> dined it the Lord Bishop's B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t one Mayor <hi>Hurst</hi>'s Wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and k<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pt the late King Pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>soner
+<pb n="31" facs="tcp:54151:16"/> in the Isle of <hi>Wight,</hi> came to the said Widdow <hi>Crossingham,</hi> and tempting her, told her, that if her Son would withdraw his Evidence, they gave (meaning the dissenting Party, and Mr. <hi>Fa<g ref="char:EOLhyphen"/>rington</hi>) considerable Sums, and she should have part of it, and her Son should have a good part of it.</p>
+               <closer>
+                  <dateline>
+                     <hi>Jurat coram me</hi>
+                     <date>9<seg rend="sup">no</seg>
+                        <hi>die Sep. 1682.</hi>
+                     </date>
+                  </dateline>
+                  <signed>STEPHEN PENFORD.</signed>
+                  <signed>Her Mark KATHERINE CROSSINGHAM.</signed>
+               </closer>
+            </div>
+            <div type="affidavit">
+               <head>XV.</head>
+               <p>MRIS <hi>Mary <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ynvin</hi> volun<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aril<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, makes Oath before me <hi>Stephen Penford</hi> Alderman, and one of his Majesties <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<g ref="char:EOLhyphen"/>stices of the Peace for the City of <hi>Chichester,</hi> that <hi>Richard Habin</hi> immediately after the receiving his wounds, came to the Palace of the Lord Bishop, and had a small quantity of <hi>Aqua Mirabilis</hi> of<g ref="char:EOLhyphen"/>fered him, of which she believeth he s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arce swallowed any, and that he had no other Liqu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r given him there</p>
+               <closer>
+                  <dateline>
+                     <hi>Jurat Coram me</hi>
+                     <date>Sept.</date>
+                  </dateline>
+                  <signed>STEPHEN PENFORD</signed>
+                  <signed>MARY KIN<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>IN.</signed>
+               </closer>
+            </div>
+            <div type="affidavit">
+               <head>XVI.</head>
+               <p>
+                  <hi>THomas Wood</hi> Cook voluntarily maketh Oath before me <hi>Ste<g ref="char:EOLhyphen"/>phen Penford</hi> Alderman, and one of his Majesties Justices of the Peace for the City of <hi>Chichester,</hi> that one <hi>William Peachy</hi> a Chyrurgion of the City aforesaid, a Friend to Mr. <hi>Farington</hi> and the Party, came to the Palace of the Lord Bishop in time of the Di<g ref="char:EOLhyphen"/>vine Service at the Cathedral, and went into the Stable where <hi>Richard Habin</hi> lay upon dry Hay in a warm place, where all the care imaginable was taken of him, as well by others of the Bishops Family, as by his own Wife, and that he the said <hi>Habin</hi> had no str<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng Liqu<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> given him, as it falsely suggested in a late label, ex<g ref="char:EOLhyphen"/>cept a little Cordial, only th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Dep<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt saith upon his Oath, that <hi>Peachy</hi> aforesaid, pulled out a lit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le Batle, and in a Spoon gave the said <hi>Habin</hi> some kind of Liquor, of what Nature this Deponent knoweth not.</p>
+               <closer>
+                  <dateline>
+                     <hi>Jurat coram me.</hi>
+                  </dateline>
+                  <signed>STEPHEN PENFORD.</signed>
+                  <signed>THOMAS WOOD.</signed>
+               </closer>
+            </div>
+            <div type="affidavit">
+               <pb n="32" facs="tcp:54151:17"/>
+               <head>XVII.</head>
+               <p>
+                  <hi>HEnry Elems</hi> voluntarily maketh Oath before me <hi>Stephen Pen<g ref="char:EOLhyphen"/>ford,</hi> one of His Majesties Justices of the Peace for the City of <hi>Chichester,</hi> that <hi>Richard Habin</hi> lately murthered, immediately after he had received his mortal wounds, cam<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to the Palace of the Lord Bishop, very w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ak with the loss of much blood, but n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t at all distempered with drink, as is falsely suggested in a late label, and the said <hi>Habin</hi> told this Deponent, that Mr. <hi>Farington</hi>'s man had given him his deaths wounds.</p>
+               <closer>
+                  <dateline>
+                     <hi>Jurat coram me.</hi>
+                  </dateline>
+                  <signed>STEPHEN PENFORD.</signed>
+                  <signed>His Mark HENRY ELEMS.</signed>
+               </closer>
+            </div>
+            <div type="affidavit">
+               <head>XVIII.</head>
+               <p>WHereas it is falsely suggested in a late Pamphlet <hi>p. 5.</hi> that the Mother to <hi>Thomas Barnes</hi> a Boy above fourteen years, a Witness against the Murtherers of <hi>Richard Habin,</hi> did run like a mad Woman, crying, my Son shall swear for the Lord Bishop, <hi>&amp;c.</hi> for I have most of my Livelihood from my Lord, the said Widdow <hi>Barnes</hi> came before me <hi>Stephen Penford,</hi> and did voluntarily make Oath that she never spoke any such words, and that she was ne<g ref="char:EOLhyphen"/>ver tampered with by the Bishop or any other, to perswade her Son to swear any way, and that she hath no other relief from the Bishop, than other poor People, and that she had not seen her Son <hi>Thomas</hi> from Sunday at night when <hi>Habin</hi> dyed, until the Saturday after, after he had taken his Oath.</p>
+               <closer>
+                  <dateline>
+                     <hi>Jurat coram me</hi>
+                     <date>
+                        <hi>9</hi> Sept.</date>
+                  </dateline>
+                  <signed>STEPHEN PENFORD.</signed>
+                  <signed>Her Mark ELIZABETH BARNES.</signed>
+               </closer>
+            </div>
+            <pb facs="tcp:54151:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
